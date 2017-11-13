@@ -33,5 +33,11 @@
 			'Moderators' => '50',
 			'Users' => '1',
 		);
+
+		public static $facebook_ads_configurations = array(
+			'access_token' => 'EAAVh4Y1tjukBAOqZBhaB5lUaUIL0X8rQ8jWmCkLxlWCYsTiIlZBUlMiPH0eI7AOb7OK1DZA7pFIOhe6kXvan2ZAtEZCPSArxG1tpDk4CrZAEehXq1vDKxOavB6uxHFcXwzqUDVpuPvcXTYojIG7s8O60xqFFhcrT4eAwkBesyv1AZDZD',
+			'app_id'       => '1514996251856617',
+			'app_secret'   => '2528ebbf95163b8cd418d96295623164'
+		);
 	}
 
